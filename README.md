@@ -23,6 +23,5 @@ This project is a simple C# Windows Forms application that includes a registrati
 - ✅ MohammedHasan_WinFormsAssignment.zip: Contains the full C# project.  
 - ✅ README.md: Project documentation.  
 
-## ✨ Student Information:
-- *Name:* Mohammed Hasan Alghodari  
-- *Course:* C# Windows Forms
+## ✨  BY:
+- *Eng.* Mohammed Hasan Alghodari
